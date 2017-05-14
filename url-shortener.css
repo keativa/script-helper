@@ -1,0 +1,16 @@
+.cen {
+test-align:center;
+position:absolute;
+left:50%;
+top:50%;
+margin-left:-150px;
+margin-top:-60px
+}
+.form {
+}
+label {
+}
+.form input[type="text"] {
+}
+.submit {
+}

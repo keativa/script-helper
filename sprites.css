@@ -1,0 +1,16 @@
+.icon-phone,.icon-facebook,.icon-envelope {
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	background-image: url(sprites.png);
+	background-repeat: no-repeat;
+}
+.icon-phone {
+	background-position: 0 0;
+}
+.icon-facebook {
+	background-position: -128px 0;
+}
+.icon-envelope {
+	background-position: -256px 0;
+}
